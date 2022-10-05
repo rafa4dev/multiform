@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Preview 
-![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
+![Employee data](https://github.com/rafa4dev/multiform/blob/master/preview.JPG?raw=true "Employee Data title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
